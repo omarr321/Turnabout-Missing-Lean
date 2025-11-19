@@ -1,0 +1,4 @@
+Intro Cutscene: 11
+Inv - Day 1 - Before trial: 175
+Trial - Day 1: 161
+Inv - Day 1 - After trial: 
